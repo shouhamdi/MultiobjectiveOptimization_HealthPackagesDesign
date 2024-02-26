@@ -1,0 +1,95 @@
+"measure_name","cause_name","cause_id","age_name","val","upper","lower"
+"Deaths","Maternal disorders",366,"15-49",7331.80587447847,8521.65510127833,6194.98844754338
+"Deaths","Maternal hemorrhage",367,"15-49",2610.52704956273,3732.50021160047,1729.17840564083
+"Deaths","Maternal sepsis and other maternal infections",368,"15-49",658.1852601652,996.872898772664,418.704071129872
+"Deaths","Maternal hypertensive disorders",369,"15-49",1150.55727896498,1630.21713895926,741.731737304933
+"Deaths","Maternal obstructed labor and uterine rupture",370,"15-49",482.070918523557,702.909683136671,303.392430969188
+"Incidence","Maternal disorders",366,"15-49",3753569.05087,4258342.58227,3306903.33782
+"Incidence","Maternal hemorrhage",367,"15-49",124857.967897,161180.781879,96821.5933089
+"Incidence","Maternal sepsis and other maternal infections",368,"15-49",328704.377643,403733.493748,268041.988119
+"Incidence","Maternal hypertensive disorders",369,"15-49",679091.746647,789480.04221,577125.530124
+"Incidence","Maternal obstructed labor and uterine rupture",370,"15-49",161743.463224,217708.817779,123295.468519
+"Prevalence","Maternal disorders",366,"15-49",431053.021202,486957.321774,379540.471731
+"Prevalence","Maternal hemorrhage",367,"15-49",27128.1231165,29557.980577,24692.6971271
+"Prevalence","Maternal sepsis and other maternal infections",368,"15-49",145389.153419,166304.189737,127541.14941
+"Prevalence","Maternal hypertensive disorders",369,"15-49",113434.741836,160627.658648,74445.5657089
+"Prevalence","Maternal obstructed labor and uterine rupture",370,"15-49",135142.360442,163157.961923,111164.057123
+"Deaths","Neonatal disorders",380,"Neonatal",66659.8429466794,75507.0298246587,58403.5225447606
+"Deaths","Neonatal encephalopathy due to birth asphyxia and trauma",382,"Neonatal",27283.1573532842,32696.6156204101,22042.7218553515
+"Deaths","Neonatal preterm birth",381,"Neonatal",15113.3938559672,21117.7407842299,11575.0095103968
+"Deaths","Neonatal sepsis and other neonatal infections",383,"Neonatal",10732.0101159657,14345.1310212069,8098.59798489797
+"Incidence","Neonatal disorders",380,"Births",514930.877161,584963.905944,460779.140492
+"Incidence","Neonatal disorders",380,"Neonatal",0,0,0
+"Incidence","Neonatal encephalopathy due to birth asphyxia and trauma",382,"Births",124887.138932,185381.391372,80028.1239906
+"Incidence","Neonatal encephalopathy due to birth asphyxia and trauma",382,"Neonatal",0,0,0
+"Incidence","Neonatal preterm birth",381,"Births",321323.845845,335224.12105,305238.047656
+"Incidence","Neonatal preterm birth",381,"Neonatal",0,0,0
+"Incidence","Neonatal sepsis and other neonatal infections",383,"Births",50529.4518023,93293.7825751,28041.0665022
+"Incidence","Neonatal sepsis and other neonatal infections",383,"Neonatal",0,0,0
+"Prevalence","Neonatal disorders",380,"Neonatal",30276.6702893,33858.56683672,26810.97539434
+"Prevalence","Neonatal encephalopathy due to birth asphyxia and trauma",382,"Neonatal",7747.7241272,10158.21653924,5742.03544047
+"Prevalence","Neonatal preterm birth",381,"Neonatal",21173.2384392,23447.67389608,18813.89131179
+"Prevalence","Neonatal sepsis and other neonatal infections",383,"Neonatal",1837.773417499,2355.357512433,1440.568666345
+"Deaths","Diarrheal diseases",302,"Under 5",31804.581221193,38114.3842618615,26080.7372747392
+"Deaths","Lower respiratory infections",322,"Under 5",25574.0809955807,29908.6524655749,21345.5451886935
+"Deaths","Pneumococcal meningitis",333,"Under 5",1002.01199292946,1267.40039672304,795.15565188429
+"Deaths","H influenzae type B meningitis",334,"Under 5",353.82615108953,453.237726489329,271.226172915064
+"Deaths","Acute hepatitis B",402,"Under 5",106.128783162883,184.446268058214,61.6220531802739
+"Incidence","Diarrheal diseases",302,"Under 5",32987341.2578,39262078.0102,27595662.0485
+"Incidence","Lower respiratory infections",322,"Under 5",1770570.15131,2192296.60281,1410408.15414
+"Incidence","Pneumococcal meningitis",333,"Under 5",11213.2598969,16231.9557103,7473.4519815
+"Incidence","H influenzae type B meningitis",334,"Under 5",17242.3957115,24492.0397663,11719.6477424
+"Incidence","Meningococcal meningitis",335,"Under 5",10600.6186652,15828.9205042,6632.5838186
+"Incidence","Diphtheria",338,"Under 5",526.81132458,909.11509834,287.504602465
+"Incidence","Measles",341,"Under 5",431633.040065,976743.675886,152384.306016
+"Deaths","Meningococcal meningitis",335,"Under 5",832.014911019028,1040.7794275782,653.981681570651
+"Deaths","Diphtheria",338,"Under 5",136.239726494136,238.895809895426,72.3273201374288
+"Deaths","Measles",341,"Under 5",4960.79909167399,11125.6610267588,1719.37783239604
+"Prevalence","Pneumococcal meningitis",333,"Under 5",12246.6554006,15157.0131158,9837.36294061
+"Prevalence","H influenzae type B meningitis",334,"Under 5",9103.54347992,11766.4790412,6974.87964243
+"Prevalence","Meningococcal meningitis",335,"Under 5",5007.0704378,6688.14997887,3594.96359415
+"Prevalence","Diphtheria",338,"Under 5",39.6019461465,69.8479196641,21.4364448606
+"Prevalence","Measles",341,"Under 5",11825.5627415,26760.1007092,4174.91249358
+"Incidence","Acute hepatitis B",402,"Under 5",465132.507605,633176.930816,342370.605714
+"Prevalence","Acute hepatitis B",402,"Under 5",52454.3151003,71253.1070215,38500.8841874
+"Prevalence","Diarrheal diseases",302,"Under 5",514833.774681,600857.30108,439942.309294
+"Prevalence","Lower respiratory infections",322,"Under 5",42265.7803486,51708.9178774,34594.096802
+"Deaths","Drug-susceptible tuberculosis",934,"15-69",22221.3233918906,25681.7359247189,17540.06764935
+"Deaths","HIV/AIDS",298,"15-69",12564.9050298775,15290.4590059928,10260.5536864325
+"Incidence","Drug-susceptible tuberculosis",934,"15-69",147998.8455145,173656.5556443,123992.9776661
+"Incidence","HIV/AIDS",298,"15-69",12406.362729404,20555.55736878,6433.23027862
+"Prevalence","Drug-susceptible tuberculosis",934,"15-69",109322.9509697,127628.598338,92376.257638
+"Prevalence","HIV/AIDS",298,"15-69",566606.974538,660693.087523,491918.0768608
+"Deaths","Hypertensive heart disease",498,"50-69",1834.3641460238,2863.17100620903,998.230365271814
+"Deaths","Ischemic heart disease",493,"50-69",9090.10425951108,10471.1668199706,7764.8174139088
+"Deaths","Ischemic stroke",495,"50-69",1386.77340523295,1971.92645485409,909.549232602248
+"Incidence","Hypertensive heart disease",498,"50-69",0,0,0
+"Incidence","Ischemic heart disease",493,"50-69",16035.1771558,19506.0336002,12776.204505
+"Incidence","Ischemic stroke",495,"50-69",8179.45752779,10357.094704,6654.1480909
+"Prevalence","Hypertensive heart disease",498,"50-69",14281.0537506,18908.5898322,10257.6179369
+"Prevalence","Ischemic heart disease",493,"50-69",283712.352918,308602.842498,261180.968113
+"Prevalence","Ischemic stroke",495,"50-69",83538.9798117,94413.7776917,73115.5166415
+"Deaths","Diabetes mellitus type 2",976,"50-69",2594.5628382402,3274.56645774703,1832.33887730134
+"Incidence","Diabetes mellitus type 2",976,"50-69",42457.5379564,51446.2720914,34521.1673149
+"Prevalence","Diabetes mellitus type 2",976,"50-69",717096.100678,818652.572123,623149.406857
+"Deaths","Exposure to mechanical forces",704,"0-69",2188.17975876888,3339.280152686,1581.22564868279
+"Deaths","Falls",697,"0-69",2319.94524638483,2886.47490612992,1861.55604411792
+"Deaths","Fire, heat, and hot substances",699,"0-69",1615.25974457939,2246.64906449081,1240.94670939777
+"Deaths","Foreign body",712,"0-69",642.989339674455,791.115992310239,533.457091440761
+"Deaths","Self-harm and interpersonal violence",717,"0-69",12135.3897386581,15733.9520129865,10474.5656375517
+"Deaths","Transport injuries",688,"0-69",8895.39280595833,10243.0543255272,7714.09969995677
+"Incidence","Exposure to mechanical forces",704,"0-69",1138949.7599694,1518274.9597592,840313.1491599
+"Incidence","Falls",697,"0-69",1348745.4944082,1847267.681549,982886.660635
+"Incidence","Fire, heat, and hot substances",699,"0-69",135836.25411308,186043.34460646,97306.14934767
+"Incidence","Foreign body",712,"0-69",429540.0798892,561299.4946774,326313.8907518
+"Incidence","Self-harm and interpersonal violence",717,"0-69",748145.0416854,896935.0510324,621072.0124664
+"Incidence","Transport injuries",688,"0-69",407517.1465392,522064.0201227,316527.4948954
+"Prevalence","Exposure to mechanical forces",704,"0-69",1765457.3562459,2096520.8178437,1478529.8222853
+"Prevalence","Falls",697,"0-69",2107984.2043792,2501584.4217938,1783652.1089238
+"Prevalence","Fire, heat, and hot substances",699,"0-69",890641.99850572,1054305.7619999,757572.19888947
+"Prevalence","Foreign body",712,"0-69",228028.4019055,281690.4389451,181546.65101635
+"Prevalence","Self-harm and interpersonal violence",717,"0-69",5827935.4896475,6911208.2397617,4900343.2404721
+"Prevalence","Transport injuries",688,"0-69",915751.21938817,999994.5853541,840954.1341569
+"Deaths","Cervical cancer",432,"20-69",2985.77147259728,4833.08407165936,2169.81548130007
+"Incidence","Cervical cancer",432,"20-69",6764.629047439,11474.159152531,4469.6648205069
+"Prevalence","Cervical cancer",432,"20-69",39465.69775935,67733.05074224,25501.755058409

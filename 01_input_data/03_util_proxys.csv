@@ -1,0 +1,126 @@
+int_n;Description_of_utilization;util_code;util_name;util;quintile
+1;Percentage with raised total cholesterol, currently on STEPS medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;STEPS_BP_CHOLESTEROL;Percentage with raised total cholesterol, currently on medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;3,91070548;1
+1;Percentage with raised total cholesterol, currently on STEPS medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;STEPS_BP_CHOLESTEROL;Percentage with raised total cholesterol, currently on medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;4,372851599;2
+1;Percentage with raised total cholesterol, currently on STEPS medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;STEPS_BP_CHOLESTEROL;Percentage with raised total cholesterol, currently on medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;5,001968324;3
+1;Percentage with raised total cholesterol, currently on STEPS medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;STEPS_BP_CHOLESTEROL;Percentage with raised total cholesterol, currently on medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;6,265484525;4
+1;Percentage with raised total cholesterol, currently on STEPS medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;STEPS_BP_CHOLESTEROL;Percentage with raised total cholesterol, currently on medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;8,994366045;5
+2;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;14;1
+2;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;27,2;2
+2;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;30,2;3
+2;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;35,8;4
+2;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;78,3;5
+3;Percent of women with a prior live birth who received DHS antenatal care from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;14;1
+3;Percent of women with a prior live birth who received DHS antenatal care from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;27,2;2
+3;Percent of women with a prior live birth who received DHS antenatal care from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;30,2;3
+3;Percent of women with a prior live birth who received DHS antenatal care from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;35,8;4
+3;Percent of women with a prior live birth who received DHS antenatal care from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;78,3;5
+3.1;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_ANCP_W_SKP;Antenatal care from a skilled provider;47,8;1
+3.1;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_ANCP_W_SKP;Antenatal care from a skilled provider;57,6;2
+3.1;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_ANCP_W_SKP;Antenatal care from a skilled provider;65,1;3
+3.1;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_ANCP_W_SKP;Antenatal care from a skilled provider;69;4
+3.1;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_ANCP_W_SKP;Antenatal care from a skilled provider;87,7;5
+3.2;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;14;1
+3.2;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;27,2;2
+3.2;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;30,2;3
+3.2;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;35,8;4
+3.2;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;78,3;5
+3.3;Pregnant women receiving prenatal care of at least four visits (% of pregnant women);RH_DELA_C_SKP;Assistance during delivery from a skilled provider;14;1
+3.3;Pregnant women receiving prenatal care of at least four visits (% of pregnant women);RH_DELA_C_SKP;Assistance during delivery from a skilled provider;27,2;2
+3.3;Pregnant women receiving prenatal care of at least four visits (% of pregnant women);RH_DELA_C_SKP;Assistance during delivery from a skilled provider;30,2;3
+3.3;Pregnant women receiving prenatal care of at least four visits (% of pregnant women);RH_DELA_C_SKP;Assistance during delivery from a skilled provider;35,8;4
+3.3;Pregnant women receiving prenatal care of at least four visits (% of pregnant women);RH_DELA_C_SKP;Assistance during delivery from a skilled provider;78,3;5
+4;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;14;1
+4;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;27,2;2
+4;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;30,2;3
+4;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;35,8;4
+4;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;78,3;5
+4.1;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;14;1
+4.1;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;27,2;2
+4.1;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;30,2;3
+4.1;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;35,8;4
+4.1;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;78,3;5
+4.2;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;14;1
+4.2;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;27,2;2
+4.2;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;30,2;3
+4.2;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;35,8;4
+4.2;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;78,3;5
+5;Percent of children with diarrhea who were taken to DHS a health facility;CH_DIAT_C_ADV;Treatment of diarrhea: Taken to a health facility;42,9;1
+5;Percent of children with diarrhea who were taken to DHS a health facility;CH_DIAT_C_ADV;Treatment of diarrhea: Taken to a health facility;38,6;2
+5;Percent of children with diarrhea who were taken to DHS a health facility;CH_DIAT_C_ADV;Treatment of diarrhea: Taken to a health facility;47,6;3
+5;Percent of children with diarrhea who were taken to DHS a health facility;CH_DIAT_C_ADV;Treatment of diarrhea: Taken to a health facility;47,3;4
+5;Percent of children with diarrhea who were taken to DHS a health facility;CH_DIAT_C_ADV;Treatment of diarrhea: Taken to a health facility;63,6;5
+6;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;14;1
+6;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;27,2;2
+6;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;30,2;3
+6;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;35,8;4
+6;Percent of women with a prior live birth who received assistance during delivery from a skilled provider;RH_DELA_C_SKP;Assistance during delivery from a skilled provider;78,3;5
+7;Percentage of children age 12-23 months and children age 24-35 months who received specific vaccines at any time before the survey;DHS2016;Children who received the specific last dose of vaccine;43,6;1
+7;Percentage of children age 12-23 months and children age 24-35 months who received specific vaccines at any time before the survey;DHS2016;Children who received the specific last dose of vaccine;50,7;2
+7;Percentage of children age 12-23 months and children age 24-35 months who received specific vaccines at any time before the survey;DHS2016;Children who received the specific last dose of vaccine;53,0;3
+7;Percentage of children age 12-23 months and children age 24-35 months who received specific vaccines at any time before the survey;DHS2016;Children who received the specific last dose of vaccine;64,6;4
+7;Percentage of children age 12-23 months and children age 24-35 months who received specific vaccines at any time before the survey;DHS2016;Children who received the specific last dose of vaccine;78,6;5
+8;Percentage of children age 12-23 months and children age 24-35 months who received specific vaccines at any time before the survey;DHS2016;Children who received the specific last dose of vaccine;43,6;1
+8;Percentage of children age 12-23 months and children age 24-35 months who received specific vaccines at any time before the survey;DHS2016;Children who received the specific last dose of vaccine;50,7;2
+8;Percentage of children age 12-23 months and children age 24-35 months who received specific vaccines at any time before the survey;DHS2016;Children who received the specific last dose of vaccine;53,0;3
+8;Percentage of children age 12-23 months and children age 24-35 months who received specific vaccines at any time before the survey;DHS2016;Children who received the specific last dose of vaccine;64,6;4
+8;Percentage of children age 12-23 months and children age 24-35 months who received specific vaccines at any time before the survey;DHS2016;Children who received the specific last dose of vaccine;78,6;5
+9;Among children under age 5 who had diarrhoea in the 2 weeks before the survey, percentage given fluid from ORS packet (LEMLEM) or pre- packaged ORS fluid;DHS2016;Percent of children with diarrhoea given ORS;26,7;1
+9;Among children under age 5 who had diarrhoea in the 2 weeks before the survey, percentage given fluid from ORS packet (LEMLEM) or pre- packaged ORS fluid;DHS2016;Percent of children with diarrhoea given ORS;27,7;2
+9;Among children under age 5 who had diarrhoea in the 2 weeks before the survey, percentage given fluid from ORS packet (LEMLEM) or pre- packaged ORS fluid;DHS2016;Percent of children with diarrhoea given ORS;32,4;3
+9;Among children under age 5 who had diarrhoea in the 2 weeks before the survey, percentage given fluid from ORS packet (LEMLEM) or pre- packaged ORS fluid;DHS2016;Percent of children with diarrhoea given ORS;24,4;4
+9;Among children under age 5 who had diarrhoea in the 2 weeks before the survey, percentage given fluid from ORS packet (LEMLEM) or pre- packaged ORS fluid;DHS2016;Percent of children with diarrhoea given ORS;41,4;5
+10;Percent of children with symptoms of acute DHS respiratory infection (ARI) who received antibiotics;CH_ARIS_C_ABI;Children with symptoms of ARI who received antibiotics;18;1
+10;Percent of children with symptoms of acute DHS respiratory infection (ARI) who received antibiotics;CH_ARIS_C_ABI;Children with symptoms of ARI who received antibiotics;22,7;2
+10;Percent of children with symptoms of acute DHS respiratory infection (ARI) who received antibiotics;CH_ARIS_C_ABI;Children with symptoms of ARI who received antibiotics;24;3
+10;Percent of children with symptoms of acute DHS respiratory infection (ARI) who received antibiotics;CH_ARIS_C_ABI;Children with symptoms of ARI who received antibiotics;26,7;4
+10;Percent of children with symptoms of acute DHS respiratory infection (ARI) who received antibiotics;CH_ARIS_C_ABI;Children with symptoms of ARI who received antibiotics;21,1;5
+11;Percent of children with symptoms of acute DHS respiratory infection (ARI) who received antibiotics;CH_ARIS_C_ABI;Children with symptoms of ARI who received antibiotics;18;1
+11;Percent of children with symptoms of acute DHS respiratory infection (ARI) who received antibiotics;CH_ARIS_C_ABI;Children with symptoms of ARI who received antibiotics;22,7;2
+11;Percent of children with symptoms of acute DHS respiratory infection (ARI) who received antibiotics;CH_ARIS_C_ABI;Children with symptoms of ARI who received antibiotics;24;3
+11;Percent of children with symptoms of acute DHS respiratory infection (ARI) who received antibiotics;CH_ARIS_C_ABI;Children with symptoms of ARI who received antibiotics;26,7;4
+11;Percent of children with symptoms of acute DHS respiratory infection (ARI) who received antibiotics;CH_ARIS_C_ABI;Children with symptoms of ARI who received antibiotics;21,1;5
+12;Tuberculosis (TB) case detection rate (all forms of WDI TB);SH.TBS.DTEC.ZS;Tuberculosis case detection rate (%, all forms);49,58215876;1
+12;Tuberculosis (TB) case detection rate (all forms of WDI TB);SH.TBS.DTEC.ZS;Tuberculosis case detection rate (%, all forms);55,44151134;2
+12;Tuberculosis (TB) case detection rate (all forms of WDI TB);SH.TBS.DTEC.ZS;Tuberculosis case detection rate (%, all forms);63,41781268;3
+12;Tuberculosis (TB) case detection rate (all forms of WDI TB);SH.TBS.DTEC.ZS;Tuberculosis case detection rate (%, all forms);79,43739308;4
+12;Tuberculosis (TB) case detection rate (all forms of WDI TB);SH.TBS.DTEC.ZS;Tuberculosis case detection rate (%, all forms);100;5
+13;;NA;NA;100;1
+13;;NA;NA;100;2
+13;;NA;NA;100;3
+13;;NA;NA;100;4
+13;;NA;NA;100;5
+14;Percent of population ever receiving an HIV test;HA_CPHT_MW_EVT;Men and women ever receiving an HIV test;26;1
+14;Percent of population ever receiving an HIV test;HA_CPHT_MW_EVT;Men and women ever receiving an HIV test;34,85;2
+14;Percent of population ever receiving an HIV test;HA_CPHT_MW_EVT;Men and women ever receiving an HIV test;38,35;3
+14;Percent of population ever receiving an HIV test;HA_CPHT_MW_EVT;Men and women ever receiving an HIV test;47,75;4
+14;Percent of population ever receiving an HIV test;HA_CPHT_MW_EVT;Men and women ever receiving an HIV test;66,2;5
+15;Percent of women reporting a sexually transmitted DHS infection (STI);HA_STIS_W_STI;Women reporting an STI;6,3;1
+15;Percent of women reporting a sexually transmitted DHS infection (STI);HA_STIS_W_STI;Women reporting an STI;10,7;2
+15;Percent of women reporting a sexually transmitted DHS infection (STI);HA_STIS_W_STI;Women reporting an STI;13,2;3
+15;Percent of women reporting a sexually transmitted DHS infection (STI);HA_STIS_W_STI;Women reporting an STI;16,5;4
+15;Percent of women reporting a sexually transmitted DHS infection (STI);HA_STIS_W_STI;Women reporting an STI;24,4;5
+16;;NA;NA;100;1
+16;;NA;NA;100;2
+16;;NA;NA;100;3
+16;;NA;NA;100;4
+16;;NA;NA;100;5
+17;Percentage with raised total cholesterol, currently on STEPS medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;STEPS_BP_CHOLESTEROL;Percentage with raised total cholesterol, currently on medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;3,91070548;1
+17;Percentage with raised total cholesterol, currently on STEPS medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;STEPS_BP_CHOLESTEROL;Percentage with raised total cholesterol, currently on medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;4,372851599;2
+17;Percentage with raised total cholesterol, currently on STEPS medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;STEPS_BP_CHOLESTEROL;Percentage with raised total cholesterol, currently on medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;5,001968324;3
+17;Percentage with raised total cholesterol, currently on STEPS medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;STEPS_BP_CHOLESTEROL;Percentage with raised total cholesterol, currently on medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;6,265484525;4
+17;Percentage with raised total cholesterol, currently on STEPS medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;STEPS_BP_CHOLESTEROL;Percentage with raised total cholesterol, currently on medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;8,994366045;5
+18;Percentage with raised total cholesterol, currently on STEPS medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;STEPS_BP_CHOLESTEROL;Percentage with raised total cholesterol, currently on medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;3,91070548;1
+18;Percentage with raised total cholesterol, currently on STEPS medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;STEPS_BP_CHOLESTEROL;Percentage with raised total cholesterol, currently on medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;4,372851599;2
+18;Percentage with raised total cholesterol, currently on STEPS medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;STEPS_BP_CHOLESTEROL;Percentage with raised total cholesterol, currently on medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;5,001968324;3
+18;Percentage with raised total cholesterol, currently on STEPS medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;STEPS_BP_CHOLESTEROL;Percentage with raised total cholesterol, currently on medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;6,265484525;4
+18;Percentage with raised total cholesterol, currently on STEPS medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;STEPS_BP_CHOLESTEROL;Percentage with raised total cholesterol, currently on medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;8,994366045;5
+19;Percentage with raised total cholesterol, currently on STEPS medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;STEPS_BL_GLUCOSE;Percentage population with raised blood glucose or currently on medication for raised blood glucose;4,120207559;1
+19;Percentage with raised total cholesterol, currently on STEPS medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;STEPS_BL_GLUCOSE;Percentage population with raised blood glucose or currently on medication for raised blood glucose;4,607111506;2
+19;Percentage with raised total cholesterol, currently on STEPS medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;STEPS_BL_GLUCOSE;Percentage population with raised blood glucose or currently on medication for raised blood glucose;5,269930913;3
+19;Percentage with raised total cholesterol, currently on STEPS medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;STEPS_BL_GLUCOSE;Percentage population with raised blood glucose or currently on medication for raised blood glucose;6,601135482;4
+19;Percentage with raised total cholesterol, currently on STEPS medication for raised cholesterol, raised blood pressure, or currently on medication for raised blood pressure;STEPS_BL_GLUCOSE;Percentage population with raised blood glucose or currently on medication for raised blood glucose;9,476207083;5
+20;Percent of individuals with health conditions most associated with serious health-related suffering whose healthcare needs are met;KNAUL;Percentage of need met for the health conditions most associated with serious health-related suffering;7,681742907;1
+20;Percent of individuals with health conditions most associated with serious health-related suffering whose healthcare needs are met;KNAUL;Percentage of need met for the health conditions most associated with serious health-related suffering;8,589529927;2
+20;Percent of individuals with health conditions most associated with serious health-related suffering whose healthcare needs are met;KNAUL;Percentage of need met for the health conditions most associated with serious health-related suffering;9,825294922;3
+20;Percent of individuals with health conditions most associated with serious health-related suffering whose healthcare needs are met;KNAUL;Percentage of need met for the health conditions most associated with serious health-related suffering;12,30720175;4
+20;Percent of individuals with health conditions most associated with serious health-related suffering whose healthcare needs are met;KNAUL;Percentage of need met for the health conditions most associated with serious health-related suffering;17,66750473;5
